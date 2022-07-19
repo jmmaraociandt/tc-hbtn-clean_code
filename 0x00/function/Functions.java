@@ -1,6 +1,6 @@
 package function;
 
-public class Function {
+public class Functions {
     public void saveIncome(Income income){
         inRepo.save(income);
     }
